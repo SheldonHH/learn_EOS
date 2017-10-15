@@ -1,0 +1,55 @@
+Start testing: Aug 29 17:31 +08
+----------------------------------------------------------
+1/3 Testing: test_5
+1/3 Test: test_5
+Command: "/Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/5Tutorial/Demo" "5"
+Directory: /Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/5Tutorial
+"test_5" start time: Aug 29 17:31 +08
+Output:
+----------------------------------------------------------
+Now we use the <cmath> library. 
+the square root of the input number x is: 2.23607
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_5" end time: Aug 29 17:31 +08
+"test_5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: test_9
+2/3 Test: test_9
+Command: "/Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/5Tutorial/Demo" "9"
+Directory: /Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/5Tutorial
+"test_9" start time: Aug 29 17:31 +08
+Output:
+----------------------------------------------------------
+Now we use the <cmath> library. 
+the square root of the input number x is: 3
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Fail Reason:
+Required regular expression not found.Regex=[is 3
+]
+"test_9" end time: Aug 29 17:31 +08
+"test_9" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: test_none
+3/3 Test: test_none
+Command: "/Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/5Tutorial/Demo"
+Directory: /Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/5Tutorial
+"test_none" start time: Aug 29 17:31 +08
+Output:
+----------------------------------------------------------
+Please enter a valid number 
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"test_none" end time: Aug 29 17:31 +08
+"test_none" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 29 17:31 +08

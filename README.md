@@ -1,2 +1,2 @@
-# grow_EOS
-my learning notes for EOS
+# basic_eos
+This repo shares the basic tutorial of EOS

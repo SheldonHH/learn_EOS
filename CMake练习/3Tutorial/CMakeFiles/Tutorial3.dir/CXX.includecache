@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/3Tutorial/main.cpp
+iostream
+-
+cmath
+-
+math/MathFunctions.hpp
+/Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/3Tutorial/math/MathFunctions.hpp
+
+/Users/Sheldon/Desktop/EOS/决战Google/决战EOS/basic_eos/CMake练习/3Tutorial/math/MathFunctions.hpp
+
